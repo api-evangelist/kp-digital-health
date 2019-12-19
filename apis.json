@@ -1,0 +1,58 @@
+{
+    "name": "KP Digital Health",
+    "description": "Staying healthy is easier with the right support. Visit kp.org to learn how we customize care and coverage just for you.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10089-kp-digital-health.jpg",
+    "tags": [
+        "have api",
+        "health care",
+        "healthcare",
+        "orange report healthcare"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kp-digital-health\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "KP Digital Health",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10089-kp-digital-health.jpg",
+            "humanURL": "https:\/\/kp.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kp-digital-health-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.kp.org"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kaiser-permanente"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.kp.org\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/KPShare"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/KPDigitalHealth"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/kp.org"
+        }
+    ]
+}
